@@ -2,7 +2,7 @@
     <strong><h3 style="color:royalblue">Agile Coach | Project Manager | Web and Mobile Developer</h3></strong>
 </center>
 
-<img align="right" width="400rem" alt="GIF" src="./manager_scroll.gif" />
+<img style="border:5px solid rgb(35, 59, 79, 0.7); border-radius: 20%" align="right" width="400rem" alt="Animated GIF of a person scrolling through virtual documents." src="./manager_scroll.gif" />
 
 <center>
 <a href="https://linkedin.com/in/LunsfordSpace">
