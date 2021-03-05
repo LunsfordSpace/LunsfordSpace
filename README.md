@@ -1,8 +1,6 @@
-<center>
-    <strong><h3 style="color:royalblue">Agile Coach | Project Manager | Web and Mobile Developer</h3></strong>
-</center>
+<h2 style="color:royalblue;align:center;">Agile Coach | Project Manager | Web and Mobile Developer</h3>
 
-<img style="border-radius: 20%" align="right" width="400rem" alt="Animated GIF of a person scrolling through virtual documents." src="./manager_scroll.gif" />
+<img style="border-radius: 20%" align="right" width="400rem" alt="Animated GIF of a person scrolling through virtual documents." src="./assets/img/manager_scroll.gif" />
 
 <center>
 <a href="https://linkedin.com/in/LunsfordSpace">
@@ -24,7 +22,7 @@
 
 <hr/>
 
-Hello friend!
+<b>Hello friend!</b>
 
 🛠️ I’m currently working on building my brand as a team coach.<br/>
 💡 I’m currently learning Python 🐍<br/>
