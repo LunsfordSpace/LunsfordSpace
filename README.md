@@ -1,38 +1,39 @@
 <center>
-    <strong><h3 style="color:royalblue">Agile Coach | Project Manager | Web and Mobile Developer</h3></strong>
+    <strong>
+        <h3 style="color:royalblue">Agile Coach | Project Manager | Web and Mobile Developer</h3>
+    </strong>
 </center>
-
-<img align="right" width="400rem" alt="GIF" src="./manager_scroll.gif" />
-
-<center>
-<a href="https://linkedin.com/in/LunsfordSpace">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
-</a>
-
-<a href="https://www.instagram.com/lunsfordspace/">
-    <img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F">
-</a>
-
-<a href="https://twitter.com/LunsfordSpace">
-    <img src="https://img.shields.io/badge/-Twitter-black.svg?style=flat&logo=twitter&logoColor=white&colorB=1DA1F2">
-</a>
-
-<!-- <a href="https://www.reddit.com/user/LunsfordSpace">
-    <img src="https://img.shields.io/badge/-Reddit-black.svg?style=flat&logo=reddit&logoColor=white&colorB=FF4500">
-</a> -->
-</center>
-
-<hr/>
-
-Hello friend!
-
-🛠️ I’m currently working on building my brand as a team coach.<br/>
-💡 I’m currently learning Python 🐍<br/>
-🤝🏽 I’m looking to opportunities to meet all sorts of folks in the industry and hear interesting stories.<br/>
-🗪 Ask me about empathetic management and servant leadership.<br/>
-💙 Pronouns: He/They<br/>
-🪁 Fun fact: Last time Liechtenstein went to war in 1868, they sent 80 soldiers. 81 came back, because they made a friend.
-
+<div style="display:flex">
+    <div style="flex:50%">
+        <center>
+            <a href="https://linkedin.com/in/LunsfordSpace">
+                <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
+            </a>
+            <a href="https://www.instagram.com/lunsfordspace/">
+                <img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F">
+            </a>
+            <a href="https://twitter.com/LunsfordSpace">
+                <img src="https://img.shields.io/badge/-Twitter-black.svg?style=flat&logo=twitter&logoColor=white&colorB=1DA1F2">
+            </a>
+            <!-- <a href="https://www.reddit.com/user/LunsfordSpace">
+                <img src="https://img.shields.io/badge/-Reddit-black.svg?style=flat&logo=reddit&logoColor=white&colorB=FF4500">
+            </a> -->
+        </center>
+        <hr/>
+            Hello friend!<br/><br/>
+            🛠️ I’m currently working on building my brand as a team coach.<br/>
+            💡 I’m currently learning Python 🐍<br/>
+            🤝🏽 I’m looking to opportunities to meet all sorts of folks in the industry and hear interesting stories.<br/>
+            🗪 Ask me about empathetic management and servant leadership.<br/>
+            💙 Pronouns: He/They<br/>
+            🪁 Fun fact: Last time Liechtenstein went to war in 1868, they sent 80 soldiers. 81 came back, because they made a friend.
+    </div>
+    <div style="flex:50%;vertical-align:middle">
+        <center>
+            <img align="right" width="400rem" alt="GIF" src="./manager_scroll.gif" />
+        </center>
+    </div>
+</div>
 <hr/>
 
 <!-- <center>
