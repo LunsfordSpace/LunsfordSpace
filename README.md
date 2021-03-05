@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/-Twitter-black.svg?style=flat&logo=twitter&logoColor=white&colorB=1DA1F2">
 </a>
 
-<a href="https://www.reddit.com/user/LunsfordSpace">
+<!-- <a href="https://www.reddit.com/user/LunsfordSpace">
     <img src="https://img.shields.io/badge/-Reddit-black.svg?style=flat&logo=reddit&logoColor=white&colorB=FF4500">
-</a>
+</a> -->
 </center>
 
 <hr/>
