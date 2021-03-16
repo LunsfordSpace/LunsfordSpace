@@ -7,12 +7,12 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
 </a>
 
-<a href="https://www.instagram.com/lunsfordspace/">
-    <img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F">
-</a>
-
 <a href="https://twitter.com/LunsfordSpace">
     <img src="https://img.shields.io/badge/-Twitter-black.svg?style=flat&logo=twitter&logoColor=white&colorB=1DA1F2">
+</a>
+
+<a href="https://www.instagram.com/lunsfordspace/">
+    <img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F">
 </a>
 
 <!-- <a href="https://www.reddit.com/user/LunsfordSpace">
