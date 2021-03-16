@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/-Twitter-black.svg?style=flat&logo=twitter&logoColor=white&colorB=1DA1F2">
 </a>
 
-<a href="https://www.instagram.com/lunsfordspace/">
+<!-- <a href="https://www.instagram.com/lunsfordspace/">
     <img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F">
-</a>
+</a> -->
 
 <!-- <a href="https://www.reddit.com/user/LunsfordSpace">
     <img src="https://img.shields.io/badge/-Reddit-black.svg?style=flat&logo=reddit&logoColor=white&colorB=FF4500">
