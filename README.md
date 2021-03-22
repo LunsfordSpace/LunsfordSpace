@@ -24,7 +24,7 @@
 
 <b>Hello friend!</b>
 
-🛠️ I’m currently working on building my brand as a team coach.<br/>
+🛠️ I’m currently working on building my brand.<br/>
 💡 I’m currently learning Python 🐍<br/>
 🤝🏽 I’m looking to opportunities to meet all sorts of folks in the industry and hear interesting stories.<br/>
 🚩 Ask me about empathetic management and servant leadership.<br/>
