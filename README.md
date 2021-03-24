@@ -26,7 +26,7 @@
 
 🛠️ I’m currently working on building my brand.<br/>
 💡 I’m currently learning Python 🐍<br/>
-🤝🏽 I’m looking to opportunities to meet all sorts of folks in the industry and hear interesting stories.<br/>
+🤝 I’m looking to opportunities to meet all sorts of folks in the industry and hear interesting stories.<br/>
 🚩 Ask me about empathetic management and servant leadership.<br/>
 💙 Pronouns: He/They<br/>
 🪁 Fun fact: Last time Liechtenstein went to war in 1868, they sent 80 soldiers. 81 came back, because they made a friend.
